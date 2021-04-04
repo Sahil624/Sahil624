@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/sahilmangotra1" target="blank"><img src="https://img.shields.io/twitter/follow/sahilmangotra1?logo=twitter&style=for-the-badge" alt="sahilmangotra1" /></a> </p>
 
+- 💬 Ask me about **Angular, Django, Python, Golang**
+
+- 📫 How to reach me **sahilmangotra1997@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZJhGAzUhp1YdrUzpWqoUrAzwHlmhhWVy/view?usp=sharing](https://drive.google.com/file/d/1ZJhGAzUhp1YdrUzpWqoUrAzwHlmhhWVy/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sahil624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sahil624" height="30" width="40" /></a>

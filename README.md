@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Sahil Mangotra</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahil624&label=You%20Checked%20Out%20My%20Profile&color=blue&style=flat" alt="sahil624" /> 
